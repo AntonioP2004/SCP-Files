@@ -1,0 +1,14 @@
+{
+  "name": "scp-files-window",
+  "version": "1.0.0",
+  "description": "scp-files menu",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Antonio Parrinello",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.1"
+  }
+}
